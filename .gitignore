@@ -1,0 +1,3 @@
+# ignore following file names in git commits
+*.tsv
+*.json
